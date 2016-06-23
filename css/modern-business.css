@@ -22,12 +22,11 @@ body {
 .img-hover:hover {
     opacity: 0.8;
 }
+/*navbar blue color change*/
 .navbar {
     background-color:#2F4C67;
 }
-.ul li active {
-    background-color:#ddd;
-}
+
 /* Home Page Carousel */
 
 header.carousel {

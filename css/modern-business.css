@@ -44,7 +44,7 @@ header.carousel .carousel-inner {
 }
 
 header.carousel .fill {
-    width: 100%;
+    width: 1920px;
     height: 1080px;
     background-position: center;
     background-size: cover;

@@ -25,7 +25,7 @@ body {
 .navbar {
     background-color:#2F4C67;
 }
-.nav ul li active {
+.ul nav li active {
     background-color:#ddd;
 }
 /* Home Page Carousel */

@@ -22,7 +22,9 @@ body {
 .img-hover:hover {
     opacity: 0.8;
 }
-
+navbar {
+    background-color:#ee3399;
+}
 /* Home Page Carousel */
 
 header.carousel {

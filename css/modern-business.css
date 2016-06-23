@@ -25,6 +25,9 @@ body {
 .navbar {
     background-color:#2F4C67;
 }
+.nav li active {
+    background-color:#ddd;
+}
 /* Home Page Carousel */
 
 header.carousel {

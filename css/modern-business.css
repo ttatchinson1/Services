@@ -35,6 +35,8 @@ h1, h2 {
 header.carousel {
     width: 1200px;
     height:675px;
+    background-position: center;
+    background-size: cover;
 }
 
 header.carousel .item,

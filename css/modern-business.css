@@ -28,6 +28,12 @@ body {
 h1, h2 {
     color:#2f4c67;
 }
+p.phrase {
+ color:#2f4c67;
+ text-align:center;
+ font-size:40%;
+ font-weight:bolder;
+}
 /* Home Page Carousel */
 
 header.carousel {

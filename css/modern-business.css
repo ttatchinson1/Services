@@ -22,7 +22,12 @@ body {
 .img-hover:hover {
     opacity: 0.8;
 }
-
+.navbar {
+    background-color:#2f4c67;
+} 
+h1, h2 {
+    color:#2f4c67;
+}
 /* Home Page Carousel */
 
 header.carousel {

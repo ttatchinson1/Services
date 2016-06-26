@@ -10,7 +10,7 @@
   src: url('../fonts/fontawesome-webfont.eot?#iefix&v=4.2.0') format('embedded-opentype'), url('../fonts/fontawesome-webfont.woff?v=4.2.0') format('woff'), url('../fonts/fontawesome-webfont.ttf?v=4.2.0') format('truetype'), url('../fonts/fontawesome-webfont.svg?v=4.2.0#fontawesomeregular') format('svg');
   font-weight: normal;
   font-style: normal;
-  color:#2F4C67;
+ 
 }
 .fa {
   display: inline-block;
@@ -67,6 +67,9 @@
   padding: .2em .25em .15em;
   border: solid 0.08em #2F4C67;
   border-radius: .1em;
+}
+.span {
+   color:#2F4C67;
 }
 .pull-right {
   float: right;

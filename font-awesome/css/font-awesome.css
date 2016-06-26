@@ -16,7 +16,7 @@
   display: inline-block;
   font: normal normal normal 14px/1 FontAwesome;
   font-size: inherit;
-  
+  background-color:#f00;
   text-rendering: auto;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
@@ -26,7 +26,7 @@
   font-size: 1.33333333em;
   line-height: 0.75em;
   vertical-align: -15%;
-  color:#f00;
+  
 }
 .fa-2x {
   font-size: 2em;

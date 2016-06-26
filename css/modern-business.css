@@ -34,6 +34,9 @@ p.phrase {
  font-size:300%;
  font-weight:bolder;
 }
+.span {
+    color:#2f4c67;
+}
 /* Home Page Carousel */
 
 header.carousel {

@@ -15,6 +15,11 @@ body {
     padding-top: 50px; /* Required padding for .navbar-fixed-top. Remove if using .navbar-static-top. Change if height of navigation changes. */
 }
 
+.mygrid-wrapper-div {
+    border: solid rgb(88, 169, 205) 0px;
+    overflow: scroll;
+    height: 50px;
+
 .img-portfolio {
     margin-bottom: 30px;
 }

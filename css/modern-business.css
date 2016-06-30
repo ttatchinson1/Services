@@ -18,7 +18,7 @@ body {
 .mygrid-wrapper-div {
     border: solid rgb(88, 169, 205) 0px;
     overflow: scroll;
-    height: 200px;
+    height: 150px;
 
 .img-portfolio {
     margin-bottom: 30px;
